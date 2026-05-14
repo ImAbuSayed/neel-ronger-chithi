@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/neel-ronger-chithi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Neel Ronger Chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neel-ronger-chithi/) |
+| **Get License** | [Official Music Licensing for Neel Ronger Chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neel-ronger-chithi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6f2e39062fa959637295ccab399da886a1239bd805bbe4cfc81dc7e6777f8fd2` |
 | **Timestamp** | May 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

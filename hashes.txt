@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Neel Ronger Chithi
+
+This log tracks the cryptographic history and versioning for the song **Neel Ronger Chithi** (neel-ronger-chithi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-14T20:50:01.187567 | `v1` | `6f2e39062fa959637295ccab399da886a1239bd805bbe4cfc81dc7e6777f8fd2` | `be46f2f137898b7d571b3a5c83c7909c25252cb544b8d5e809b08d80f66c381f` | `2026-05-14_neel-ronger-chithi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
