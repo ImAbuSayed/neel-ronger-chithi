@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/neel-ronger-chithi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Neel Ronger Chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neel-ronger-chithi/) |
+| **Get License** | [Get a Licensing Quote for Neel Ronger Chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neel-ronger-chithi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নীল রঙের এক চিঠি আজ পাঠালাম বাতাসে
+> অচেনা এক ঘোরের মাঝে ডাকছি তোমায় কাছে
+> বুকের ভেতর জ্বলছে আগুন তোমার এই নেশাতে.. তোমার নেশাতে..
+> হঠাৎ করে পাগল হলাম এই মাতাল রাতে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
